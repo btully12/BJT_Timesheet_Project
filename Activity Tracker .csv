@@ -1,4 +1,4 @@
-﻿Initials ,Date ,Couse_id,Time(m) ,Summary
+﻿a,Date ,Couse_id,Time(m) ,Summary
 BJT,1/10/22,DS160-01,50,Reading Chapter 1
 BJT,1/14/22,DS160-01,20,Read DS articles
 BJT,1/14/22,BUSA346-01,25,Statistic Review HW
@@ -22,3 +22,7 @@ BJT,2/7/22,DS160-01,60,Group Project 1
 BJT,2/8/22,BUSA346-01,120,Homework #4
 BJT,2/8/22,DS160-01,60,GP1
 BJT,2/9/22,DS160-02,60,GP1
+BJT,2/10/22,DS160-01,120,GP1
+BJT,2/11/22,BUSA203-01,60,Exam Review
+BJT,2/12/22,MATH215-01,40,Quiz Review
+BJT,2/13/22,DS160-01,60,GP1
