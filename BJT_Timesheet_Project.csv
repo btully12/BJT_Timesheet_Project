@@ -1,4 +1,4 @@
-﻿a,Date ,Couse_id,Time(m) ,Summary
+﻿initials,date,course_id,time(m),summary
 BJT,1/10/22,DS160-01,50,Reading Chapter 1
 BJT,1/14/22,DS160-01,20,Read DS articles
 BJT,1/14/22,BUSA346-01,25,Statistic Review HW
